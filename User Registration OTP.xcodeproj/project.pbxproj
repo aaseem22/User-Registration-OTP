@@ -35,16 +35,6 @@
 			path = "User Registration OTP";
 			sourceTree = "<group>";
 		};
-		12EE01162D47BB00007D7295 /* User Registration OTPTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "User Registration OTPTests";
-			sourceTree = "<group>";
-		};
-		12EE01202D47BB00007D7295 /* User Registration OTPUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "User Registration OTPUITests";
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				12EE01042D47BAFD007D7295 /* User Registration OTP */,
-				12EE01162D47BB00007D7295 /* User Registration OTPTests */,
-				12EE01202D47BB00007D7295 /* User Registration OTPUITests */,
 				12EE01032D47BAFD007D7295 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				12EE01152D47BB00007D7295 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				12EE01162D47BB00007D7295 /* User Registration OTPTests */,
-			);
 			name = "User Registration OTPTests";
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				12EE011F2D47BB00007D7295 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				12EE01202D47BB00007D7295 /* User Registration OTPUITests */,
 			);
 			name = "User Registration OTPUITests";
 			packageProductDependencies = (
