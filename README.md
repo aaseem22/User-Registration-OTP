@@ -41,7 +41,7 @@ This iOS app demonstrates a user registration system with OTP verification, foll
 ## Architecture
 This project follows **Clean Architecture** principles with the **MVVM (Model-View-ViewModel)** pattern, ensuring better separation of concerns, testability, and maintainability.
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram]((https://drive.google.com/file/d/19PbNbvtUtyNuFnkTC7MOn6UOHX7qWE-R/view?usp=sharing))
 This project follows **Clean Architecture** principles with the **MVVM (Model-View-ViewModel)** pattern, ensuring better separation of concerns, testability, and maintainability.
 
 ## Technologies Used
